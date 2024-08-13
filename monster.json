@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Forest Troll",
+        "resetTime": 3600
+    },
+    {
+        "name": "Outlaw",
+        "resetTime": 10
+    },
+    {
+        "name": "Outlaw2",
+        "resetTime": 10
+    },
+    {
+        "name": "Outlaw3",
+        "resetTime": 10
+    },
+    {
+        "name": "Outlaw4",
+        "resetTime": 10
+    }
+]
